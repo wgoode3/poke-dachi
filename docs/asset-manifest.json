@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/poke-dachi/static/css/main.6bd0f203.chunk.css",
+    "main.js": "/poke-dachi/static/js/main.0a02f651.chunk.js",
+    "main.js.map": "/poke-dachi/static/js/main.0a02f651.chunk.js.map",
+    "runtime-main.js": "/poke-dachi/static/js/runtime-main.1b24f409.js",
+    "runtime-main.js.map": "/poke-dachi/static/js/runtime-main.1b24f409.js.map",
+    "static/css/2.bc82e399.chunk.css": "/poke-dachi/static/css/2.bc82e399.chunk.css",
+    "static/js/2.fd078e53.chunk.js": "/poke-dachi/static/js/2.fd078e53.chunk.js",
+    "static/js/2.fd078e53.chunk.js.map": "/poke-dachi/static/js/2.fd078e53.chunk.js.map",
+    "index.html": "/poke-dachi/index.html",
+    "precache-manifest.329d64db98b0860084507a085ffb8a93.js": "/poke-dachi/precache-manifest.329d64db98b0860084507a085ffb8a93.js",
+    "service-worker.js": "/poke-dachi/service-worker.js",
+    "static/css/2.bc82e399.chunk.css.map": "/poke-dachi/static/css/2.bc82e399.chunk.css.map",
+    "static/css/main.6bd0f203.chunk.css.map": "/poke-dachi/static/css/main.6bd0f203.chunk.css.map",
+    "static/js/2.fd078e53.chunk.js.LICENSE.txt": "/poke-dachi/static/js/2.fd078e53.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b24f409.js",
+    "static/css/2.bc82e399.chunk.css",
+    "static/js/2.fd078e53.chunk.js",
+    "static/css/main.6bd0f203.chunk.css",
+    "static/js/main.0a02f651.chunk.js"
+  ]
+}
